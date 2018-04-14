@@ -1,0 +1,11 @@
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\bin\Debug\TSbanner.exe
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\bin\Debug\TSbanner.pdb
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\obj\x86\Debug\MainWindow.baml
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\obj\x86\Debug\App.g.cs
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\obj\x86\Debug\TSbanner_MarkupCompile.cache
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\obj\x86\Debug\TSbanner.g.resources
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\obj\x86\Debug\TSbanner.Properties.Resources.resources
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\obj\x86\Debug\TSbanner.csproj.GenerateResource.Cache
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\obj\x86\Debug\TSbanner.exe
+C:\Users\Tim\Google Drive\C#_VS12\TSbanner\obj\x86\Debug\TSbanner.pdb
